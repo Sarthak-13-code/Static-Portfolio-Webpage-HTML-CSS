@@ -17,7 +17,7 @@ Open the folder in VS Code or any code editor.
 
 Simply open the file:
 
-index.html
+index2.html
 
 in any web browser (Chrome, Edge, Firefox, etc.).
 
@@ -60,6 +60,7 @@ Uses style.css for layout, colors, typography, and structure.
 ✔ 7. Fully Static & Lightweight
 
 Runs directly in the browser without requiring any backend or installation.
+
 
 
 
